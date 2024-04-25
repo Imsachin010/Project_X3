@@ -1,4 +1,4 @@
-# [Restaurant and Cuisine Generator] (https://11d3efaf-d38d-43b7-b6ad-dc3805512fd4-00-310zzrolk47yl.sisko.replit.dev/)
+# [Restaurant and Cuisine Generator](https://11d3efaf-d38d-43b7-b6ad-dc3805512fd4-00-310zzrolk47yl.sisko.replit.dev/)
 
 A Streamlit app that generates restaurant names and cuisine types using OpenAI LLM and Langchain.
 
@@ -25,6 +25,7 @@ This project is licensed under the MIT License.
 - Thanks to OpenAI for their language models.
 - Shoutout to Langchain for inspiration.
 
-!Build Status
-<img src="https://github.com/Imsachin010/Project_X3/assets/97721592/783aed12-bb25-4fd8-89df-ba71312547b1" alt="Restaurant_llm" style="width:300px;" />
+# !Build Status
+## One can view this developed UI 
+<img src="https://github.com/Imsachin010/Project_X3/assets/97721592/783aed12-bb25-4fd8-89df-ba71312547b1" alt="Restaurant_llm" style="width:800px;" />
 
