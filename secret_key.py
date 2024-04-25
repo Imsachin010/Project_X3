@@ -1,1 +1,1 @@
-openapi_key = " AIzaSyDU0F3ZmGWBrrFpmUv21ZHuJBoTbtm4mL8"
+openapi_key = "AIzaSyDU0F3ZmGWBrrFpmUv21ZHuJBoTbtm4mL8"
