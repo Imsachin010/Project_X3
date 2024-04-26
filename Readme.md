@@ -1,9 +1,9 @@
 # Restaurant and Cuisine Generator
 
 A Streamlit app that generates restaurant names and cuisine types using OpenAI LLM and Langchain.
-!Build Status
 
-## The UI/UX view of developed project !!
+
+## !Build Status: The UI/UX view of developed project !!
 
 <img src="https://github.com/Imsachin010/Project_X3/assets/97721592/188b1483-1112-4b3d-a72f-9d20ad11c14a" width="600" />
 
