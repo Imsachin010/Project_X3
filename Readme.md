@@ -25,4 +25,8 @@ This project is licensed under the MIT License.
 - Thanks to OpenAI for their language models.
 - Shoutout to Langchain for inspiration.
 
+
+## The UI/UX view of developed project !!
+
 !Build Status
+<img src="https://github.com/Imsachin010/Project_X3/assets/97721592/188b1483-1112-4b3d-a72f-9d20ad11c14a" width="600" />
